@@ -7,6 +7,15 @@ for i in 1...5 {
     print("myFirstInt = \(myFirstInt) at iteration \(i)")
 }
 
+var myAge: Int = 0
+
+for i in 1...33{
+    print(myAge)
+    myAge += 1
+}
+
+
+
 
 // For loop with a where clause
 
